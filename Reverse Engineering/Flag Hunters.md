@@ -93,4 +93,3 @@ To prevent such vulnerabilities in real-world applications:
 ## References
 
 - [Python String Manipulation](https://docs.python.org/3/library/stdtypes.html#string-methods)
-- [Understanding Buffer Overflows](https://owasp.org/www-community/vulnerabilities/Buffer_Overflow)
