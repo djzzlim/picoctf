@@ -1,4 +1,4 @@
-# [Rust fixme 3](https://play.picoctf.org/practice/challenge/XXX)
+# [Rust fixme 3](https://play.picoctf.org/practice/challenge/463)
 
 ## Challenge Information
 
