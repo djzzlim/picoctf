@@ -5,14 +5,16 @@
 - **Category**: Forensics
 - **Difficulty**: Easy
 - **Description**: RED, RED, RED, RED
-- **Hints**:
-  - The picture seems pure, but is it though?
-  - Red? Ged? Bed? Aed?
-  - Check whatever Facebook is called now.
 
 ## Solution Overview
 
 This challenge involves **steganography and metadata analysis** on the provided image ([`red.png`](https://challenge-files.picoctf.net/c_verbal_sleep/831307718b34193b288dde31e557484876fb84978b5818e2627e453a54aa9ba6/red.png)). By extracting hidden data from the image using various forensic tools, we uncover a **Base64-encoded flag** hidden in its least significant bits (LSB).
+
+## Hints
+
+  - **The picture seems pure, but is it though?**
+  - **Red? Ged? Bed? Aed?**
+  - **Check whatever Facebook is called now.**
 
 ## Detailed Walkthrough
 
