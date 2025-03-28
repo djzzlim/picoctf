@@ -1,4 +1,4 @@
-# [Flag Hunters](https://play.picoctf.org/practice/challenge/XXX)
+# [Flag Hunters](https://play.picoctf.org/practice/challenge/472)
 
 ## Challenge Information
 
