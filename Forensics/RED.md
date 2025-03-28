@@ -1,4 +1,4 @@
-# [RED](https://play.picoctf.org/practice/challenge/XXX)
+# [RED](https://play.picoctf.org/practice/challenge/460)
 
 ## Challenge Information
 
