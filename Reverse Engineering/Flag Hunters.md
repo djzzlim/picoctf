@@ -2,7 +2,7 @@
 
 ## Challenge Information
 
-- **Category**: Binary Exploitation
+- **Category**: Reverse Engineering
 - **Difficulty**: Easy
 - **Description**: Lyrics jump from verses to the refrain kind of like a subroutine call. There's a hidden refrain this program doesn't print by default. Can you get it to print it?
 
